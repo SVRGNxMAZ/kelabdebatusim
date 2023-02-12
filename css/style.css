@@ -334,13 +334,14 @@ button {
 .logo_midle::before {
     position: absolute;
     content: "";
-    bottom: -93px;
-    width: 158px;
-    height: 96px;
+    bottom: -100px;
+    width: 194px;
+    height: 122px;
+	background: url("../images/logo2.png");
     z-index: 999;
     margin: 0 auto;
-    left: 0;
-    right: 26px;
+    left: 0px;
+    right: 180px;
 }
 .site-navbar {
     display: flex;
