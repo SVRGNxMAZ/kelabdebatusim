@@ -344,14 +344,14 @@ button {
 .logo_midle::before {
     position: absolute;
     content: "";
-    bottom: -100px;
+    bottom: -40px;
     width: 194px;
     height: 122px;
 	background: url("../images/logo2.png");
     z-index: 999;
     margin: 0 auto;
     left: 0px;
-    right: 180px;
+    right: 165px;
 }
 .site-navbar {
     display: flex;
